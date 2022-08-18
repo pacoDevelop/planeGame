@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pacoDevelop/planeGame">
-    <img src="images_readme/logo.png" alt="Logo" width="300" height="300">
+    <img src="images_readme/logo.png" alt="Logo" width="500" height="300">
   </a>
 
 <h3 align="center">PlaneGame</h3>
@@ -65,11 +65,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="images_readme/juego.png" alt="Juego" width="300" height="300">
+<div align="center">
+<img src="images_readme/juego.png" alt="Juego" width="900" height="600">
 
 Este juego fue elaborado en la materia de Entornos de Desarrollo en el curso de Desarrollo de aplicaciones multiplataforma 2018-2019. Consta de un juego simple de aviones, dispone de sonido y movimiento en 2D.
-
+</div>
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
