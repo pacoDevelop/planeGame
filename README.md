@@ -20,7 +20,7 @@
 <h3 align="center">PlaneGame</h3>
 
   <p align="center">
-	Juego elaborado con python en el curso 2018-2019 de Desarrollo de aplicaciones Multiplataforma.
+	Juego elaborado con python y la librería pygame en el curso 2018-2019 de Desarrollo de aplicaciones Multiplataforma.
     <br />
     <a href="https://github.com/pacoDevelop/planeGame"><strong>Explorar documentación »</strong></a>
     <br />
