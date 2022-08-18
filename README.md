@@ -67,8 +67,15 @@
 ## About The Project
 <div align="center">
 <img src="images_readme/juego.png" alt="Juego" width="900" height="600">
+</br>
 
 Este juego fue elaborado en la materia de Entornos de Desarrollo en el curso de Desarrollo de aplicaciones multiplataforma 2018-2019. Consta de un juego simple de aviones, dispone de sonido y movimiento en 2D.
+</br>
+
+
+https://user-images.githubusercontent.com/70912492/185476514-77294383-0e61-4938-9b5b-7968defd8cce.mp4
+
+
 </div>
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
@@ -154,7 +161,7 @@ Según el procesador el juego irá diferente en cada procesador, para ello hay u
 - [ ] Apariciones de naves mas reales
 
 Consulte los [open issues](https://github.com/pacoDevelop/planeGame/issues) para obtener una lista completa de las características propuestas (y los problemas conocidos).
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -179,7 +186,7 @@ Si tiene una sugerencia que mejoraría esto, bifurque el repositorio y cree una 
 
 Distribuido bajo la licencia GNU General Public License v3.0 . See `LICENSE.txt` para obtener más información.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -190,7 +197,7 @@ pacoDevelop - [@pacohernandezsa](https://twitter.com/pacohernandezsa) - francisc
 
 Project Link: [https://github.com/pacoDevelop/planeGame](https://github.com/pacoDevelop/planeGame)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -200,7 +207,7 @@ Project Link: [https://github.com/pacoDevelop/planeGame](https://github.com/paco
 * [https://img.shields.io](https://img.shields.io)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
