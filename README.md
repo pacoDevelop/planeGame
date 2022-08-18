@@ -85,7 +85,7 @@ Este juego fue elaborado en la materia de Entornos de Desarrollo en el curso de 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Este es un ejemplo de cómo puede dar instrucciones sobre cómo configurar su proyecto localmente. Para obtener una copia local en funcionamiento, siga estos sencillos pasos de ejemplo.
+ Para obtener una copia local en funcionamiento, siga estos sencillos pasos de ejemplo.
 
 ### Prerequisites
 
