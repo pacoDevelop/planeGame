@@ -198,8 +198,7 @@ Project Link: [https://github.com/pacoDevelop/planeGame](https://github.com/paco
 ## Acknowledgments
 
 * [https://img.shields.io](https://img.shields.io)
-* []()
-* []()
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
