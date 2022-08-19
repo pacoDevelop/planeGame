@@ -184,7 +184,7 @@ Si tiene una sugerencia que mejoraría esto, bifurque el repositorio y cree una 
 <!-- LICENSE -->
 ## License
 
-Distribuido bajo la licencia GNU General Public License v3.0 . See `LICENSE.txt` para obtener más información.
+Distribuido bajo la licencia GNU General Public License v3.0 . Mire `LICENSE.txt` para obtener más información.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
